@@ -1,7 +1,7 @@
 # Hackathon-24
 
 PsychAI
-Team Members: Bhavika, Jhavavi, Saloni, Sejal, Bhanu 
+Team Members: Bhavika, Janhavi, Saloni, Sejal, Bhanu 
 # Introduction
 Mental health is a crucial aspect of overall well-being, encompassing a wide range of conditions such as depression, anxiety, trauma, bipolar disorder, and many others. These conditions can significantly impact an individual's daily life, relationships, and productivity. Despite the growing awareness, many people still struggle to find appropriate and timely mental health care. 
 
