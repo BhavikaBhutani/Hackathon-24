@@ -6,15 +6,15 @@ Team Members: Bhavika, Jhavavi, Saloni, Sejal, Bhanu
 Mental health is a crucial aspect of overall well-being, encompassing a wide range of conditions such as depression, anxiety, trauma, bipolar disorder, and many others. These conditions can significantly impact an individual's daily life, relationships, and productivity. Despite the growing awareness, many people still struggle to find appropriate and timely mental health care. 
 
 Various Kinds of Mental Health Issues
-Depression: Characterized by persistent sadness, lack of interest, and various physical and cognitive impairments.
-Anxiety: Involves excessive worry, nervousness, and fear that interfere with daily activities.
-Trauma: Results from experiencing or witnessing distressing events, leading to post-traumatic stress disorder (PTSD) and other related conditions.
-Bipolar Disorder: Includes extreme mood swings between mania (highs) and depression (lows).
+1. Depression: Characterized by persistent sadness, lack of interest, and various physical and cognitive impairments.
+2. Anxiety: Involves excessive worry, nervousness, and fear that interfere with daily activities.
+3. Trauma: Results from experiencing or witnessing distressing events, leading to post-traumatic stress disorder (PTSD) and other related conditions.
+4. Bipolar Disorder: Includes extreme mood swings between mania (highs) and depression (lows).
 
 Early intervention and specialized treatment are essential for managing these conditions effectively. However, the process of finding the right therapist who specializes in specific mental health issues can be daunting and inefficient.
 
 # Objective
-Our objective is to create a tool that listens to conversations between patients and ER specialists to help direct patients to the appropriate therapists based on their specific mental health conditions. Additionally, the tool aims to assist therapists by recording and analyzing therapy sessions, tracking patient mood, signs, and progress over time.
+Our objective is to create a tool that interprets the conversations between patients and mental health professionals and diganose them appropriately based on their specific symptoms. Additionally, the tool aims to assist therapists by recording and analyzing therapy sessions, tracking patient mood, signs, and progress over time.
 
 Problem 1: The Emergency Room Situation
 ER specialists often face challenges in accurately directing patients to the right therapist who specializes in conditions such as depression, trauma, or anxiety. Misdiagnosis or incorrect referrals can lead to ineffective treatment and prolonged suffering for patients.
@@ -23,11 +23,11 @@ Problem 2: Tracking Therapy Sessions
 Therapists need efficient tools to record and analyze therapy sessions. Manual note-taking can be distracting and time-consuming, making it difficult to capture all the nuances of a session. A tool that tracks patient mood, signs, and progress can significantly enhance the quality of care.
 
 # Solution
-Our tool addresses the above problems by leveraging advanced natural language processing (NLP) and machine learning techniques.
+Our tool addresses the above problems by leveraging advanced natural language processing (NLP), Large language models (LLMs) and machine learning techniques.
 
 Features
-Conversation Analysis: The tool listens to conversations between patients and ER specialists, analyzing the dialogue to determine the most suitable therapist based on the patient's condition.
-Specialist Matching: Based on the conversation analysis, the tool suggests therapists who specialize in treating conditions such as depression, trauma, and anxiety.
+Conversation Analysis: The tool can be leveraged to record, create transcript of conversations between patients and physicians, analyze the conversation and  finally predict the mental disorder along with the symptom breakdown according to the Diagnostic and Statistical Manual of Mental Disorders. This will aid the medical professionals to also verify their findings. The tool will also display percentage overlap of various disorders that a patient can have. This feature will help physcians pay more attention to correctly diagnosing such patients.
+Specialist Matching: Based on the conversation analysis, the tool can suggest therapists/therapy to the patients to treat conditions such as depression, trauma, and anxiety.
 Session Recording: The tool records therapy sessions, allowing therapists to focus on the interaction without the distraction of taking notes.
 Mood Analysis: Analyzes the recorded conversations to gauge the patient's mood and emotional state throughout the session.
 Condition Prediction: By analyzing the dialogue, the tool can predict the type of mental health issue the patient is dealing with.
