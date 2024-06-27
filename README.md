@@ -85,3 +85,6 @@ Hospitals and Clinics: Supports ER specialists and therapists in providing accur
 # Future Work
 Broader Condition Coverage: Expand the tool to include more mental health conditions and tailor recommendations accordingly.
 Mobile and Web Applications: Create accessible applications for patients and therapists to use the tool on-the-go.
+
+
+Link to the prototype (Figma): https://www.figma.com/proto/qy4Uy7CuENZkyxDabrLy2U/PsychAI?node-id=0-1&t=lw8sRRSUXa5M4sUC-1
